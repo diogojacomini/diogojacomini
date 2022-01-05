@@ -6,7 +6,7 @@ Hi, I'm Diogo Jacomini!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data Scientist;Data+Engineering+Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Data+Scientist;Data+Engineering+Student;Always+learning+new+things"></a>
 </p>
 <hr/>
 <samp>
