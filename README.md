@@ -6,13 +6,35 @@ Hi, I'm Diogo Jacomini!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Data+Scientist;Data+Engineering+Student;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Data+Scientist;Data+Engineering;Always+learning+new+things"></a>
 </p>
 <hr/>
 <samp>
 I love three things: data, programming end music. 👩‍💻
 <br/>
 </samp>
+
+
+## 🛠️ Tools | Frameworks
+
+Data Preprocessing: <a><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a> <a><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+
+Machine and Deep Learning Implementation Framework: <a><img alt="scikit-learn" src="https://img.shields.io/badge/scikit learn%20-%23150458.svg?logo=scikit-learn&logoColor=white"></a> <a><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a> <a><img alt="ml-lib" src="https://img.shields.io/badge/MLlib-21759B?logo=MLlibb&logoColor=white"></a> <a><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a> <a><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%2314354C.svg?logo=Pytorch"></a>
+
+Natural Language Processing: <a><img alt="NLTK" src="https://img.shields.io/badge/-NLTK-white"></a>
+
+Development: <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a> <a><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a> <a><img alt="Scala" src="https://img.shields.io/badge/Scala-%23007396.svg?logo=scala&logoColor=white"></a> <a><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%2314354C.svg?logo=flask"></a> <a><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+
+Data Visualization: <a><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23007396.svg?logo=Matplotlib"></a> <a><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%23007396.svg?logo=Seaborn"></a> <a><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%23007396.svg?logo=Plotly"></a>
+
+Cloud Services: <a><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23430098.svg?logo=amazon-aws&logoColor=white"></a> <a><img alt="AzureWS" src="https://img.shields.io/badge/Azure%20-%23430098.svg?logo=microsoft-azure&logoColor=white"></a>
+
+Big Data Processing: <a><img alt="apache-spark" src="https://img.shields.io/badge/Spark%20-%23150458.svg?logo=apache-spark"></a> <a><img alt="apache-spark" src="https://img.shields.io/badge/MapReduce%20-%23150458.svg?logo=MapReduce"></a> 
+
+Integrated Development Environment: <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> <a><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a> <a><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a> <a><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-%23F37626.svg?logo=IntelliJ IDEA&logoColor=white"></a> <a><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/PyCharm%20-%23150458.svg?logo=PyCharm"></a>
+
+
+<a><img alt="OS" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8"></a> <a><img alt="Shell Script" src="https://img.shields.io/badge/-Shell Script-141E24?logo=gnu-bash&logoColor=white"></a> <a><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a> 
 
 ## 🔥 Streak Stats
 
@@ -22,63 +44,6 @@ I love three things: data, programming end music. 👩‍💻
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diogojacomini&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> Hard work is useless for those who don't believe in themselves. </p>
-</p>
-
-
-## 🛠️ My Favorite Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8) 
-
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AR"><img alt="R" src="https://img.shields.io/badge/R-%23007396.svg?logo=r&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ascala"><img alt="Scala" src="https://img.shields.io/badge/Scala-%23007396.svg?logo=scala&logoColor=white"></a>
-
-### 🧰 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit learn%20-%23150458.svg?logo=scikit-learn&logoColor=white"></a>
-    <a href="#"><img alt="apache-spark" src="https://img.shields.io/badge/Spark%20-%23150458.svg?logo=apache-spark&logoColor=white"></a>
-    <a href="#"><img alt="PySpark" src="https://img.shields.io/badge/PySpark%20-%2320232a.svg?logo=pysparkt&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="ml-lib" src="https://img.shields.io/badge/MLlib-21759B?logo=MLlibb&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgreSQL&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23430098.svg?logo=amazon-aws&logoColor=white"></a>
-    <a href="#"><img alt="AzureWS" src="https://img.shields.io/badge/Azure%20-%23430098.svg?logo=microsoft-azure&logoColor=white"></a>
-</p>
-
-### 💻 Software and Tools
-
-<p>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify%20-%23FF0000.svg?logo=spotify&logoColor=white"></a>
-    <a href="#"><img alt="Spyder" src="https://img.shields.io/badge/Spyder-000000.svg?logo=Spyder IDE&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-0078d7.svg?logo=RStudio&logoColor=white"></a>
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white"></a>
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-%23F37626.svg?logo=IntelliJ IDEA&logoColor=white"></a>
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-141E24?logo=Eclipse&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB Compass" src="https://img.shields.io/badge/-MongoDB Compass-141E24?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/-Shell Script-141E24?logo=gnu-bash&logoColor=white"></a>
-
 </p>
 
 ## 📊 Github Stats
