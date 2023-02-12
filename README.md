@@ -23,7 +23,8 @@ Machine and Deep Learning Implementation Framework: <a><img alt="scikit-learn" s
 
 Natural Language Processing: <a><img alt="NLTK" src="https://img.shields.io/badge/-NLTK-white"></a>
 
-Development: <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a> <a><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a> <a><img alt="Scala" src="https://img.shields.io/badge/Scala-%23007396.svg?logo=scala&logoColor=white"></a> <a><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%2314354C.svg?logo=flask"></a> <a><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+Development: <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python"></a> <a><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a> <a><img alt="Scala" src="https://img.shields.io/badge/Scala-%23007396.svg?logo=scala&logoColor=white"></a> <a><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%2314354C.svg?logo=flask"></a> <a><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a> <a><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%2314354C.svg?logo=gnu-bash"></a>
+
 
 Data Visualization: <a><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23007396.svg?logo=Matplotlib"></a> <a><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%23007396.svg?logo=Seaborn"></a> <a><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%23007396.svg?logo=Plotly"></a>
 
