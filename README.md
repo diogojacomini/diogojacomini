@@ -28,7 +28,9 @@ Development: <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%2
 
 Data Visualization: <a><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23007396.svg?logo=Matplotlib"></a> <a><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%23007396.svg?logo=Seaborn"></a> <a><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%23007396.svg?logo=Plotly"></a>
 
-Cloud Services: <a><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23430098.svg?logo=amazon-aws&logoColor=white"></a> <a><img alt="AzureWS" src="https://img.shields.io/badge/Azure%20-%23430098.svg?logo=microsoft-azure&logoColor=white"></a>
+infrastructure: <a><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23430098.svg?logo=amazon-aws&logoColor=white"></a> <a><img alt="AzureWS" src="https://img.shields.io/badge/Azure%20-%23430098.svg?logo=microsoft-azure&logoColor=white"></a> <a><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%23430098.svg?logo=docker"></a>
+
+
 
 Big Data Processing: <a><img alt="apache-spark" src="https://img.shields.io/badge/Spark%20-%23150458.svg?logo=apache-spark"></a> <a><img alt="apache-spark" src="https://img.shields.io/badge/MapReduce%20-%23150458.svg?logo=MapReduce"></a> 
 
