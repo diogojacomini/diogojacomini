@@ -10,7 +10,7 @@ Hi, I'm Diogo Jacomini!
 </p>
 <hr/>
 <samp>
-I love three things: data, programming end music. 👩‍💻
+I'm addicted to everything related to data and programming. When I'm not wracking my brain over algorithms, you can find me playing video games or exploring new technologies. Let's unravel the mysteries of data together! 👩‍💻
 <br/>
 </samp>
 
