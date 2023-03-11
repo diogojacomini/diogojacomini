@@ -28,7 +28,7 @@ Development: <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%2
 
 Data Visualization: <a><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23007396.svg?logo=Matplotlib"></a> <a><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%23007396.svg?logo=Seaborn"></a> <a><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%23007396.svg?logo=Plotly"></a>
 
-infrastructure: <a><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23430098.svg?logo=amazon-aws&logoColor=white"></a> <a><img alt="AzureWS" src="https://img.shields.io/badge/Azure%20-%23430098.svg?logo=microsoft-azure&logoColor=white"></a> <a><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%23430098.svg?logo=docker"></a>
+infrastructure: <a><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23430098.svg?logo=amazon-aws&logoColor=white"></a> <a><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%23430098.svg?logo=docker"></a> <a><img alt="Terraform" src="https://img.shields.io/badge/Terraform%20-%23430098.svg?logo=terraform"></a>
 
 
 
@@ -44,10 +44,20 @@ Integrated Development Environment: <a><img alt="Visual Studio Code" src="https:
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diogojacomini&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Diogo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=diogojacomini&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> Hard work is useless for those who don't believe in themselves. </p>
 </p>
+
+## 🏆 GitHub Profile Trophy
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Diogo Jacomini" src="https://github-profile-trophy.vercel.app/?username=diogojacomini&theme=monokai"/>
+  </a>
+  <p/>
+
 
 ## 📊 Github Stats
 
@@ -55,8 +65,8 @@ Integrated Development Environment: <a><img alt="Visual Studio Code" src="https:
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogojacomini&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogojacomini&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Diogo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogojacomini&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Diogo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogojacomini&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -65,7 +75,7 @@ Integrated Development Environment: <a><img alt="Visual Studio Code" src="https:
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=diogojacomini&custom_title=diogojacomini's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Diogo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=diogojacomini&custom_title=diogojacomini's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
@@ -75,3 +85,7 @@ Integrated Development Environment: <a><img alt="Visual Studio Code" src="https:
 	<a href="https://www.linkedin.com/in/diogojacomini/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="mailto:diogo.jacomini2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
+
+
+<!-- ## ☕ Support
+<p align="center"><a href="https://www.buymeacoffee.com/diogojacomini" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="130" alt="diogojacomini" /></a></p><br><br> -->
